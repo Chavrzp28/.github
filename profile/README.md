@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zebedee.io">
+  <a href="https://zbdpay.com">
     <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
     <h3 align="center">ZBD</h3>
   </a>
@@ -12,14 +12,14 @@
 </div>
 
 <p align="center">
-  Bitcoin Lightning APIs - Global Payment Solutions
+  Global Payment Solutions for Gaming and Interactive Entertainment
 </p>
 
 <p align="center">
-  <a href="https://docs.zebedee.io"><strong>Documentation</strong></a> ·
+  <a href="https://docs.zbdpay.com"><strong>Documentation</strong></a> ·
   <a href="https://dashboard.zebedee.io"><strong>Developer Dashboard</strong></a> ·
-  <a href="https://docs.zebedee.io/api/intro"><strong>API Reference</strong></a> ·
-  <a href="https://status.zebedee.io"><strong>API Status</strong></a>
+  <a href="https://docs.zbdpay.com/payments/api"><strong>API Reference</strong></a> ·
+  <a href="https://status.zbdpay.com"><strong>API Status</strong></a>
 </p>
 <br/>
 
@@ -33,14 +33,7 @@ With ZBD, it's easy! Anyone can do it. **[What are YOU building?](https://dashbo
 
 ## Documentation
 
-For details on how to use ZBD, check out our [documentation](https://docs.zebedee.io).
-
-## Resources
-
-- [Help & Support](https://help.zebedee.io)
-- [Twitter](https://twitter.com/zebedeeio)
-- [Discord](https://discord.gg/zbd)
-- [Download ZBD](https://zbd.gg)
+For details on how to use ZBD, check out our [documentation](https://docs.zbdpay.com).
 
 -----------
 
