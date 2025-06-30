@@ -34,15 +34,3 @@ With ZBD, it's easy! Anyone can do it. **[What are YOU building?](https://dashbo
 ## Documentation
 
 For details on how to use ZBD, check out our [documentation](https://docs.zbdpay.com).
-
------------
-
-# ZBD App
-
-<p align="center">
-  <a href="https://zbd.gg">
-    <img src="https://cdn.zebedee.io/an/zbd/zbd-download.png">
-  </a>
-</p>
-
-
